@@ -1,0 +1,5 @@
+opencv-python==4.7.0.72
+pyvips==2.2.1
+cloudpathlib=0.13.0
+tensorflow==2.12.0
+mlxtend==0.22.0
