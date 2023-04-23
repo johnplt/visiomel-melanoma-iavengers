@@ -64,3 +64,6 @@ submission/
 
 # Data
 data/
+
+# zip file
+*.zip
