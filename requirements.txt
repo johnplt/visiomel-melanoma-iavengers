@@ -5,3 +5,4 @@ cloudpathlib==0.13.0
 mlxtend==0.22.0
 seaborn==0.12.2
 #tensorflow_decision_forests==1.3.0
+xgboost==1.7.5
